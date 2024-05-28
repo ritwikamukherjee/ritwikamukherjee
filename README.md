@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Raven!
 
-- 🔭 I’m currently working on fun apps!
-- 🌱 I’m currently learning about **Fast API**
+- 🔭 I’m currently working on building healthcare data parsers!
+- 🌱 I’m currently learning about functional programming!
 - 💬 Ask me about machine learning and data science in Life Sciences and HealthCare data!
 - 📫 How to reach me **ritwika3@gmail.com**
 - 📄 Know about my experiences [https://ritwikamukherjee.github.io/resume/RitwikaMukherjee_Resume.pdf](https://ritwikamukherjee.github.io/resume/RitwikaMukherjee_Resume.pdf)
